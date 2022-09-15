@@ -117,6 +117,7 @@ TODO
   - deface
   - File/json sidecar cleanup
   - Validate
+  - Obfuscate subject names
 
 ## Todo
 
