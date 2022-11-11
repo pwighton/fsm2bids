@@ -152,3 +152,4 @@ TODO
 
 - How to specify a specific session, if multiple sessions of the same sequences exists?
 - Validate
+- Investigate why heudiconv generates 3 ROI files for `sub-fsm21em`
